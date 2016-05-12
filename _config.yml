@@ -1,0 +1,21 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://suxingfate.github.io
+highlighter: rouge
+markdown: kramdown
+gems:
+    - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page/:num"
+
+name: 燃燃大魔王
+description: 燃燃大魔王 | never stop.
+author: 燃燃大魔王
+email: xxx@gmail.com
+duoshuo: xxx
+hub:
+safe: false
+paginate: 100
+github: suxingfate
+about: "hello world"
