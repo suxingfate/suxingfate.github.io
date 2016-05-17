@@ -4,6 +4,6 @@ layout: page
 comments: no
 ---
 
-* [bailaohe's blog](<http://bailaohe.github.io/>)
+* [lamborryan's blog](<http://www.lamborryan.com/>)
 * [mokaikai's blog](<http://mokaikai.github.io/>)
 * [muscliy's blog](<http://muscliy.github.io/>)
