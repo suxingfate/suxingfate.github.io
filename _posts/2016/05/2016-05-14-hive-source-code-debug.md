@@ -23,7 +23,7 @@ tags: 技术 大数据
 在本地编译好的hadoop-dist/target目录下启动hadoop
 
 ```
-/Users/xinglwang/code/hadoop-release-2.7.1/hadoop-dist/target/hadoop-2.7.1
+/Users/suxingfate/code/hadoop-release-2.7.1/hadoop-dist/target/hadoop-2.7.1
 ```
 
 ```
